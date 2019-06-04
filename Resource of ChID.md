@@ -1,6 +1,8 @@
-# Resource of ChID
+# Resources of ChID
 
-Here we list the public and electronic resources from which we collected the corpus of ChID
+Here we list the public and electronic resources from which we collected the corpus of ChID.
+
+## List
 
 当代
 
