@@ -1,6 +1,6 @@
 # Resources of ChID
 
-Here we list the public and electronic resources from which we collected the corpus of ChID.
+Here we list the resources from which we collected the corpora **Train** and **Dev** of ChID (the **Dev** part will be available later). 
 
 ## List
 
