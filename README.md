@@ -3,4 +3,4 @@ The ChID Dataset for paper **[ChID: A Large-scale Chinese IDiom Dataset for Cloz
 
 ## Update 190605
 
-The download link of **Train** corpus is available.
+The download link of **Train** corpus is available! See *Data for paper* for more information.
