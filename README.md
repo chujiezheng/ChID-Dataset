@@ -14,13 +14,19 @@ If your research is related to or based on our ChID dataset (or the version adap
 }
 ```
 
+## Update 190629
+
+The data and baseline codes for the competition are uploaded! Please refer to `Competition` for more details!
+
 ## Update 190628
 
 The codes for baseline in the paper are uploaded!
 
 ### Competition
 
-We are also organizing a competition based on our ChID dataset, and [here](https://biendata.com/competition/idiom/) is the website. The adapted corpus establishes up connections between blanks, and adopts a new type of problem. A list of passages (not an isolated one) is provided and the answers need to be selected from a given set of candidate idioms with fixed length (for more details, please refer to the competition website). The public data contains the training data (both the passages with blanks and the golden answers), the development data (only the passages, and the answers will be available later) and the corpus of idiom explanations.
+We are also organizing a competition based on our ChID dataset, and [here](https://biendata.com/competition/idiom/) is the website. The adapted corpus establishes up connections between blanks, and adopts a new type of problem. A list of passages (not an isolated one) is provided and the answers need to be selected from a given set of candidate idioms with fixed length (for more details, please refer to the competition website). 
+
+The public data contains the training data (both the passages with blanks and the golden answers), the development data (only the passages, and the answers will be available later) and the corpus of idiom explanations.
 
 The baselines of the competition are [Attentive Reader](https://arxiv.org/abs/1506.03340) and [BERT](https://arxiv.org/abs/1810.04805).
 
