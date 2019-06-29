@@ -18,10 +18,10 @@ If you have any question, please get in touch with me zhengchj16@gmail.com.
 ## Requirements
 
 - Python 3.5
-- For  `baseline_rnn`
+- For  `RNN-based Baseline`
   - Tensorflow 1.4
   - Jieba
-- For  `baseline_bert`
+- For  `BERT-based Baseline`
   - PyTorch 1.0
 
 ## RNN-based Baseline
