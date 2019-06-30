@@ -20,7 +20,7 @@ The data and baseline codes for the competition are uploaded! Please refer to `C
 
 ## Update 190628
 
-The codes for baseline in the paper are uploaded!
+The codes for baseline in the paper are uploaded! Please refer to `Codes for baseline` for more details!
 
 ### Competition
 
@@ -34,4 +34,4 @@ The data and baseline codes for the competition will be uploaded later.
 
 ## Update 190605
 
-The download link of **Train** corpus is available! See *Data for paper* for more information.
+The download link of **Train** corpus is available! Please refer to `Data for paper` for more details!
