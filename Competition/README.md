@@ -81,4 +81,4 @@ Results on other sets will be annouced later.
 
 ## Acknowledgement
 
-Our codes are adapted from [PyTorch BERT](https://github.com/huggingface/pytorch-pretrained-BERT).
+Our codes are adapted from [PyTorch BERT](https://github.com/huggingface/pytorch-pretrained-BERT) and the pre-trained Chinese BERT model is from [Chinese BERT with Whole Word Masking](https://github.com/ymcui/Chinese-BERT-wwm#%E4%B8%AD%E6%96%87%E6%A8%A1%E5%9E%8B%E4%B8%8B%E8%BD%BD).
