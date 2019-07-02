@@ -14,6 +14,12 @@ If your research is related to or based on our ChID dataset (or the version adap
 }
 ```
 
+## Update 190702
+
+The file `wordList.txt` used in baselines (both for paper and for competition) has been uploaded. 
+
+Note that due to the potential differences in equipments and word segmentation tools, your segmentation results may not perfectly match with the vocabulary we provide. For the sake of performance, we suggest you do the segmentation and get the vocabulary list by yourself.
+
 ## Update 190629
 
 The data and baseline codes for the competition are uploaded! Please refer to `Competition` for more details!
