@@ -48,7 +48,7 @@ Pre-trained Chinese BERT weights (PyTorch version) should be placed in `chinese_
 bash run.sh
 ```
 
-`run.sh` is in the following format:
+`run.sh` is in the following format (also the default setting we used to train the BERT baseline):
 
 ```bash
 python run_chid.py \
@@ -72,12 +72,12 @@ If you have successfully trained your model, you could simply remove the line of
 
 ## Baseline Results
 
-Results on other sets will be annouced later.
-
 | Baselines | Dev      | Test | Out  |
 | --------- | -------- | ---- | ---- |
 | **BERT**  | 72.71305 | -    | -    |
 | **AR**    | 65.40785 | -    | -    |
+
+Results on other sets will be annouced later.
 
 ## Acknowledgement
 
