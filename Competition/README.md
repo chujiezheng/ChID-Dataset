@@ -65,7 +65,7 @@ The corresponding answers are below (the second column indicates indexs of the g
 #idiom000384#,8
 ```
 
-It can be observed that, for the blank `#idiom000381#` in the passage 2, the three idioms "方兴未艾", "一日千里", "日新月异" in the candidates are all in line with the context and share similar meanings. However, considering the blank `#idiom000382#` in the passage 3 in which only the idiom "日新月异" can be filled, and that "方兴未艾" is the only suitable one for the blank `#idiom000383#` in the passage 4, we should fill "一日千里" into `#idiom000381` according to the exclusion method.
+It can be observed that, for the blank `#idiom000381#` in the passage 2, the three idioms "方兴未艾", "一日千里", "日新月异" in the candidates are all in line with the context and share similar meanings. However, considering the blank `#idiom000382#` in the passage 3 in which only the idiom "日新月异" can be filled, and that "方兴未艾" is the only suitable one for the blank `#idiom000383#` in the passage 4, we should fill "一日千里" into `#idiom000381#` according to the exclusion method.
 
 In general, the main differences of ChID-Adapt data for the competition from the original ChID dataset are following:
 
