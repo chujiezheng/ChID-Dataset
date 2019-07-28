@@ -7,11 +7,19 @@ If you have any question about the dataset, please get in touch with chujie16@gm
 If your research is related to or based on our ChID dataset (or the version adapted for the competition), please kindly cite it:
 
 ```
-@article{zheng2019chid,
-  title={ChID: A Large-scale Chinese IDiom Dataset for Cloze Test},
-  author={Zheng, Chujie and Huang, Minlie and Sun, Aixin},
-  booktitle={ACL 2019},  
-  year={2019}
+@inproceedings{zheng-etal-2019-chid,
+    title = "{C}h{ID}: A Large-scale {C}hinese {ID}iom Dataset for Cloze Test",
+    author = "Zheng, Chujie  and
+      Huang, Minlie  and
+      Sun, Aixin",
+    booktitle = "Proceedings of the 57th Conference of the Association for Computational Linguistics",
+    month = jul,
+    year = "2019",
+    address = "Florence, Italy",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/P19-1075",
+    pages = "778--787",
+    abstract = "Cloze-style reading comprehension in Chinese is still limited due to the lack of various corpora. In this paper we propose a large-scale Chinese cloze test dataset ChID, which studies the comprehension of idiom, a unique language phenomenon in Chinese. In this corpus, the idioms in a passage are replaced by blank symbols and the correct answer needs to be chosen from well-designed candidate idioms. We carefully study how the design of candidate idioms and the representation of idioms affect the performance of state-of-the-art models. Results show that the machine accuracy is substantially worse than that of human, indicating a large space for further research.",
 }
 ```
 
