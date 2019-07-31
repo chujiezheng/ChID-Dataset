@@ -1,6 +1,6 @@
 # ChID-Dataset
 
-The ChID Dataset for paper **[ChID: A Large-scale Chinese IDiom Dataset for Cloze Test](https://arxiv.org/abs/1906.01265)**.
+The ChID Dataset for paper **[ChID: A Large-scale Chinese IDiom Dataset for Cloze Test](https://www.aclweb.org/anthology/P19-1075)**.
 
 If you have any question about the dataset, please get in touch with chujie16@gmail.com.
 
