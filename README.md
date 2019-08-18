@@ -27,7 +27,7 @@ If your research is related to or based on our ChID dataset (or the version adap
 
 |   Corpus   |   Link   |
 | ---- | ---- |
-|   **Train**   |   https://cloud.tsinghua.edu.cn/f/4c9caef008b546dbb0dc/   |
+|   **Train**   |   https://cloud.tsinghua.edu.cn/f/1849c1bc37c446cf8739/   |
 |   **Dev**   |   It will be available later.   |
 
 
