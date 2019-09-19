@@ -29,6 +29,7 @@ If your research is related to or based on our ChID dataset (or the version adap
 | ---- | ---- |
 |   **Train**   |   https://cloud.tsinghua.edu.cn/f/1849c1bc37c446cf8739/   |
 |   **Dev**   |   https://cloud.tsinghua.edu.cn/f/7a3f4679693547528f25/ |
+| **Test** | Will be uploaded after the competition is finished. |
 
 
 ## Data Description
