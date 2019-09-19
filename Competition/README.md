@@ -14,7 +14,7 @@ If you have any question, please get in touch with me zcj16@mails.tsinghua.edu.c
 | `train_answer.csv` | https://cloud.tsinghua.edu.cn/f/0787d9e62f0e4992ad0e/ |
 | `idiomDict.json`   | https://cloud.tsinghua.edu.cn/f/c5743ff2903445e2b8fc/ |
 | `dev.txt`          | https://cloud.tsinghua.edu.cn/f/90c53b04a2374493acac/ |
-| `dev_answer.csv`   | -                                                     |
+| `dev_answer.csv`   | https://cloud.tsinghua.edu.cn/f/2e02d428a78e4207b104/ |
 | `test.txt`         | -                                                     |
 
 where the `idiomDict.json` is the corpus of idiom explanations we provide for participants.
