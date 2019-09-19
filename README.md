@@ -28,7 +28,7 @@ If your research is related to or based on our ChID dataset (or the version adap
 |   Corpus   |   Link   |
 | ---- | ---- |
 |   **Train**   |   https://cloud.tsinghua.edu.cn/f/1849c1bc37c446cf8739/   |
-|   **Dev**   |   It will be available later.   |
+|   **Dev**   |   https://cloud.tsinghua.edu.cn/f/7a3f4679693547528f25/ |
 
 
 ## Data Description
@@ -62,6 +62,10 @@ We are organizing a [competition](https://biendata.com/competition/idiom/) adapt
 
 
 ## Update History
+
+### Update 190919
+
+We have uploaded the **Dev** set of ChID, while the files `dev_answer.csv` and `test.txt` for the competition were also updated.
 
 ### Update 190702
 
