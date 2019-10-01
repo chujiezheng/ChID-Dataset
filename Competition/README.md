@@ -134,8 +134,8 @@ If you have successfully trained your model, you could simply remove the line of
 
 | Baselines | Dev      | Test | Out  |
 | --------- | -------- | ---- | ---- |
-| **BERT**  | 72.71305 | -    | -    |
-| **AR**    | 65.40785 | -    | -    |
+| **BERT**  | 72.71305 | 72.36848    | 64.64770    |
+| **AR**    | 65.40785 | 65.57370    | 55.64539    |
 
 Results on other sets will be annouced later.
 
