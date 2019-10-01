@@ -17,6 +17,8 @@ If you have any question, please get in touch with me zcj16@mails.tsinghua.edu.c
 | `dev_answer.csv`   | https://cloud.tsinghua.edu.cn/f/2e02d428a78e4207b104/ |
 | `test.txt`         | https://cloud.tsinghua.edu.cn/f/fa94d0b971754cc493b3/ |
 | `test_answer.csv`  | https://cloud.tsinghua.edu.cn/f/12bf8ffbf02441ed92d7/ |
+| `out.txt` | https://cloud.tsinghua.edu.cn/f/772e861b658d4e58bb07/ |
+| `out_answer.csv` | https://cloud.tsinghua.edu.cn/f/2f07438064d547328b65/ |
 
 where the `idiomDict.json` is the corpus of idiom explanations we provide for participants.
 
