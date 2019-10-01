@@ -29,7 +29,10 @@ If your research is related to or based on our ChID dataset (or the version adap
 | ---- | ---- |
 |   **Train**   |   https://cloud.tsinghua.edu.cn/f/1849c1bc37c446cf8739/   |
 |   **Dev**   |   https://cloud.tsinghua.edu.cn/f/7a3f4679693547528f25/ |
-| **Test** | Will be uploaded after the competition is finished. |
+| **Test** | https://cloud.tsinghua.edu.cn/f/a2e02deeea814a01a062/ |
+| **Sim** | https://cloud.tsinghua.edu.cn/f/c00492ca9ebb4b008bea/ |
+| **Ran** | https://cloud.tsinghua.edu.cn/f/2b4f170412f4482cb728/ |
+| **Out** | https://cloud.tsinghua.edu.cn/f/b28a632796324612974d/ |
 
 
 ## Data Description
@@ -63,6 +66,10 @@ We are organizing a [competition](https://biendata.com/competition/idiom/) adapt
 
 
 ## Update History
+
+### Update 191001
+
+The competition has finished. We have uploaded **all split sets** of ChID! Feel free to use it in your research.
 
 ### Update 190919
 
