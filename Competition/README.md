@@ -2,8 +2,6 @@
 
 The data and baseline codes for the [competition](https://biendata.com/competition/idiom/), which is adapted from the ACL 2019 paper "**[ChID: A Large-scale Chinese IDiom Dataset for Cloze Test](https://www.aclweb.org/anthology/P19-1075)**" (Zheng et al., 2019).
 
-If you have any question, please get in touch with me zcj16@mails.tsinghua.edu.cn.
-
 ## Competition Data
 
 ### Download Links
