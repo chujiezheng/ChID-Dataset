@@ -22,14 +22,7 @@ If your research is related to or based on our ChID dataset (or the version adap
 
 ## Download Links
 
-|   Corpus   |   Link   |
-| ---- | ---- |
-|   **Train**   |   https://cloud.tsinghua.edu.cn/f/1849c1bc37c446cf8739/   |
-|   **Dev**   |   https://cloud.tsinghua.edu.cn/f/7a3f4679693547528f25/ |
-| **Test** | https://cloud.tsinghua.edu.cn/f/a2e02deeea814a01a062/ |
-| **Sim** | https://cloud.tsinghua.edu.cn/f/c00492ca9ebb4b008bea/ |
-| **Ran** | https://cloud.tsinghua.edu.cn/f/2b4f170412f4482cb728/ |
-| **Out** | https://cloud.tsinghua.edu.cn/f/b28a632796324612974d/ |
+[Here](https://drive.google.com/drive/folders/1qdcMgCuK9d93vLVYJRvaSLunHUsGf50u?usp=sharing).
 
 
 ## Data Description
