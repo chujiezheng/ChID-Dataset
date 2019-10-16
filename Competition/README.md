@@ -8,8 +8,6 @@ The data and baseline codes for the [competition](https://biendata.com/competiti
 
 [Here](https://drive.google.com/drive/folders/1iSfXT2FJy7qfgmjGIMYkTo5rkXJSXocw?usp=sharing).
 
-where the `idiomDict.json` is the corpus of idiom explanations we provide for participants.
-
 ### Data Description
 
 One example is shown below (from the training data):
