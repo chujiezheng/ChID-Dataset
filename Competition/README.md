@@ -4,19 +4,9 @@ The data and baseline codes for the [competition](https://biendata.com/competiti
 
 ## Competition Data
 
-### Download Links
+### Download Link
 
-| Corpus             | Link                                                  |
-| ------------------ | ----------------------------------------------------- |
-| `train.txt`        | https://cloud.tsinghua.edu.cn/f/f8b048175a7b462cb2ba/ |
-| `train_answer.csv` | https://cloud.tsinghua.edu.cn/f/0787d9e62f0e4992ad0e/ |
-| `idiomDict.json`   | https://cloud.tsinghua.edu.cn/f/c5743ff2903445e2b8fc/ |
-| `dev.txt`          | https://cloud.tsinghua.edu.cn/f/90c53b04a2374493acac/ |
-| `dev_answer.csv`   | https://cloud.tsinghua.edu.cn/f/2e02d428a78e4207b104/ |
-| `test.txt`         | https://cloud.tsinghua.edu.cn/f/fa94d0b971754cc493b3/ |
-| `test_answer.csv`  | https://cloud.tsinghua.edu.cn/f/12bf8ffbf02441ed92d7/ |
-| `out.txt` | https://cloud.tsinghua.edu.cn/f/772e861b658d4e58bb07/ |
-| `out_answer.csv` | https://cloud.tsinghua.edu.cn/f/2f07438064d547328b65/ |
+[Here](https://drive.google.com/drive/folders/1iSfXT2FJy7qfgmjGIMYkTo5rkXJSXocw?usp=sharing).
 
 where the `idiomDict.json` is the corpus of idiom explanations we provide for participants.
 
