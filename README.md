@@ -20,7 +20,7 @@ If your research is related to or based on our ChID dataset (or the version adap
 }
 ```
 
-## Download Links
+## Download Link
 
 [Here](https://drive.google.com/drive/folders/1qdcMgCuK9d93vLVYJRvaSLunHUsGf50u?usp=sharing).
 
