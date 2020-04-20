@@ -57,6 +57,10 @@ We are organizing a [competition](https://biendata.com/competition/idiom/) adapt
 
 ## Update History
 
+### Update 200420
+
+Update the README.md in `Codes for baseline`.
+
 ### Update 191001
 
 The competition has finished. We have uploaded **all split sets** of ChID! Feel free to use it in your research.
