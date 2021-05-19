@@ -57,17 +57,9 @@ We are organizing a [competition](https://biendata.com/competition/idiom/) adapt
 
 ## Update History
 
-### Update 200420
-
-Update the README.md in `Codes for baseline`.
-
 ### Update 191001
 
 The competition has finished. We have uploaded **all split sets** of ChID! Feel free to use it in your research.
-
-### Update 190919
-
-We have uploaded the **Dev** set of ChID, while the files `dev_answer.csv` and `test.txt` for the competition were also updated.
 
 ### Update 190702
 
@@ -75,17 +67,9 @@ The file `wordList.txt` used in baselines (both for paper and for competition) h
 
 Note that due to the potential differences in equipments and word segmentation tools, your segmentation results may not perfectly match with the vocabulary we provide. For the sake of performance, we suggest you do the segmentation and get the vocabulary list by yourself.
 
-### Update 190629
+### Competition
 
-The data and baseline codes for the competition are uploaded! Please refer to `Competition` for more details!
-
-### Update 190628
-
-The codes for baseline in the paper are uploaded! Please refer to `Codes for baseline` for more details!
-
-#### Competition
-
-We are also organizing a competition based on our ChID dataset, and [here](https://biendata.com/competition/idiom/) is the website. The adapted corpus establishes up connections between blanks, and adopts a new type of problem. A list of passages (not an isolated one) is provided and the answers need to be selected from a given set of candidate idioms with fixed length (for more details, please refer to the competition website). 
+We are organizing a competition based on our ChID dataset, and [here](https://biendata.com/competition/idiom/) is the website. The adapted corpus establishes up connections between blanks, and adopts a new type of problem. A list of passages (not an isolated one) is provided and the answers need to be selected from a given set of candidate idioms with fixed length (for more details, please refer to the competition website). 
 
 The public data contains the training data (both the passages with blanks and the golden answers), the development data (only the passages, and the answers will be available later) and the corpus of idiom explanations.
 
