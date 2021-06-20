@@ -6,7 +6,7 @@ If you have any problem or suggestion, feel free to contact me: chujiezhengchn@g
 
 If your research is related to or based on our ChID dataset (or the version adapted for the competition), please kindly cite it:
 
-```
+```bib
 @inproceedings{zheng-etal-2019-chid,
     title = "{C}h{ID}: A Large-scale {C}hinese {ID}iom Dataset for Cloze Test",
     author = "Zheng, Chujie  and
