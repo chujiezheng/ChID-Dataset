@@ -6,7 +6,7 @@ The data and baseline codes for the [competition](https://biendata.com/competiti
 
 ### Download Link
 
-[Here](https://1drv.ms/u/s!Aky8v8NZbQx1qjter8p5SKFs8GtY?e=hssZZx).
+[Here](https://1drv.ms/f/s!Aky8v8NZbQx1qjter8p5SKFs8GtY).
 
 ### Data Description
 
