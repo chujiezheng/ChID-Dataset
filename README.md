@@ -24,7 +24,7 @@ If your research is related to or based on our ChID dataset (or the version adap
 
 ## Download Link
 
-[Here](https://drive.google.com/drive/folders/1qdcMgCuK9d93vLVYJRvaSLunHUsGf50u?usp=sharing).
+[Here](https://1drv.ms/u/s!Aky8v8NZbQx1qjlNdQb7Tb9vLSKc?e=H4agm8).
 
 
 ## Data Description
