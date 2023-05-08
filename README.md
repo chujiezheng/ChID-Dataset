@@ -19,8 +19,7 @@ If your research is related to or based on our ChID dataset (or the version adap
 
 ## Download Link
 
-[Here](https://huggingface.co/datasets/thu-coai/chid/tree/main/original).
-
+[HuggingFace](https://huggingface.co/datasets/thu-coai/chid/tree/main/original).
 
 ## Data Description
 
