@@ -6,7 +6,7 @@ The data and baseline codes for the [competition](https://biendata.com/competiti
 
 ### Download Link
 
-[HuggingFace dataset](https://huggingface.co/datasets/thu-coai/chid/tree/main/competition).
+[HuggingFace](https://huggingface.co/datasets/thu-coai/chid/tree/main/competition)
 
 ### Data Description
 
