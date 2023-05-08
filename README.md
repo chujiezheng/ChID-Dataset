@@ -12,19 +12,14 @@ If your research is related to or based on our ChID dataset (or the version adap
     author = "Zheng, Chujie  and
       Huang, Minlie  and
       Sun, Aixin",
-    booktitle = "Proceedings of the 57th Conference of the Association for Computational Linguistics",
-    month = jul,
-    year = "2019",
-    address = "Florence, Italy",
-    publisher = "Association for Computational Linguistics",
-    url = "https://www.aclweb.org/anthology/P19-1075",
-    pages = "778--787",
+    booktitle = "ACL",
+    year = "2019"
 }
 ```
 
 ## Download Link
 
-[Here](https://1drv.ms/f/s!Aky8v8NZbQx1qjlNdQb7Tb9vLSKc).
+[Here](https://huggingface.co/datasets/thu-coai/chid/tree/main/original).
 
 
 ## Data Description
